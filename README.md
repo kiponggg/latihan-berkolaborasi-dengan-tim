@@ -1,2 +1,2 @@
 # latihan-berkolaborasi-dengan-tim  
-belajar berkolaaborasi menggunakan github
+belajar berkolaborasi menggunakan github
